@@ -1,0 +1,5 @@
+git init
+git remote add origin YOUR_REPO_URL
+git commit add --all
+git commit -m "Your message"
+git push origin YOUR_BRANCH_NAME
